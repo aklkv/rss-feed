@@ -1,0 +1,23 @@
+{
+  "name": "rss-feed",
+  "version": "1.0.0",
+  "description": "List of my rss feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aklkv/rss-feed.git"
+  },
+  "keywords": [
+    "rss",
+    "feed"
+  ],
+  "author": "Alexey Kulakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aklkv/rss-feed/issues"
+  },
+  "homepage": "https://github.com/aklkv/rss-feed"
+}
