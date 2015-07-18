@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aklkv/rss-feed/issues"
   },
-  "homepage": "https://github.com/aklkv/rss-feed"
+  "homepage": "https://github.com/aklkv/rss-feed",
+  "devDependencies": {
+    "gulp-hammerdown": "^1.0.1"
+  }
 }
